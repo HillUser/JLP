@@ -5,6 +5,7 @@ public static void main (String [] args) {
 System.out.println("Hello all !!!")
 //================================
 printUserInfo("Stakh", "Jurii");
+printUserInfo("Lucec", "Dmitrii");
 
 }
 
