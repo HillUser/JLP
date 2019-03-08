@@ -7,6 +7,7 @@ System.out.println("Hello all !!!")
 printUserInfo("Stakh", "Jurii");
 printUserInfo("Lucec", "Dmitrii");
 printUserInfo("Slobodenyk", "Anna");
+printUserInfo("Skakalckyi", "Alexandr");
 }
 
 public static void printUserInfo (String firstname , String lastName) {
